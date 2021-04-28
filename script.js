@@ -26,7 +26,6 @@ $(document).ready(function() {
         $(".page-" + page).addClass("small");
       }
     }
-    console.log(diff)
     if (diff > 1) {
       for (var j = page + 1; j < oldPage; j++) {
         $(".page-" + j + " .half").css("transition", "transform .7s ease-out");
