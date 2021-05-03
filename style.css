@@ -42,6 +42,7 @@ html, body {
 }
 
 .page {
+  text-align: center;
   position: absolute;
   top: 0;
   left: 0;
@@ -198,7 +199,7 @@ html, body {
   transform: translateX(-50%) translateY(-50%);
   font-size: 3.5rem;
   color: #fff;
-  font-family: Decade;
+  font-family: 'Montserrat';
 }
 
 .nav-panel {
