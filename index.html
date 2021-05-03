@@ -4,27 +4,34 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta http-equiv="X-UA-Compatible" content="ie=edge">
-
+  <meta http-equiv="X-UA-Compatible">
   <title>L-SPACE</title>
-
   <link rel="stylesheet" href="./space.css">
 </head>
 
 <body>
+	<div class="search">
+	<label for="bar">What are you searching for?</label> <br>
+      <input type="text" id="bar" size="60">
+      
+      <form action="unseen.html">
+    <input type="submit" value="Enter the L-SPACE"></input>
+     </form>
+	</div>
 
-  <section class="fog">
-    <div class="absolute-bg"></div>
-    <div class="fog-container">
-      <div class="fog-img fog-img-first"></div>
-      <div class="fog-img fog-img-second"></div>
+<img class="fogwrapper" src="background.jpg">
+    <div id="foglayer_01" class="fog">
+	   <div class="image01"></div>
+	   <div class="image02"></div>
     </div>
-
-    <div class="title">
-      <h1>In the fog</h1>
+    <div id="foglayer_02" class="fog">
+	   <div class="image01"></div>
+	   <div class="image02"></div>
+    </div>  
+    <div id="foglayer_03" class="fog">
+	   <div class="image01"></div>
+	   <div class="image02"></div>
     </div>
-  </section>
-
 </body>
 
 </html>
