@@ -53,7 +53,7 @@ html, body {
   opacity: 0.4;
 }
 .page:nth-child(1) .left {
-  background-image: url("https://i.imgur.com/fLYCaz8.jpg");
+  background-image: url("https://static.wikia.nocookie.net/zemeplocha/images/3/33/A%27Tuin.jpg/revision/latest?cb=20191024154411&path-prefix=cs");
 }
 .page:nth-child(1) .right {
   background-color: black;
@@ -62,10 +62,10 @@ html, body {
   background-color: black;
 }
 .page:nth-child(2) .right {
-  background-image: url("https://i.imgur.com/feqYEnm.jpg");
+  background-image: url("https://scontent-prg1-1.xx.fbcdn.net/v/t1.18169-9/28167685_1586214724748757_6797899512419110157_n.jpg?_nc_cat=104&ccb=1-3&_nc_sid=e3f864&_nc_ohc=Qg8vJZd_gLEAX_un7n1&_nc_ht=scontent-prg1-1.xx&oh=c2d7b3a936816d8b7f92879fe13d2954&oe=60B68C54");
 }
 .page:nth-child(3) .left {
-  background-image: url("https://i.imgur.com/7y4mubP.jpg");
+  background-image: url("https://i.pinimg.com/originals/db/de/2c/dbde2cbf87e932ace6e0b46426c5c8af.jpg");
 }
 .page:nth-child(3) .right {
   background-color: black;
@@ -74,7 +74,7 @@ html, body {
   background-color: black;
 }
 .page:nth-child(4) .right {
-  background-image: url("https://i.imgur.com/bLvkYTs.jpg");
+  background-image: url("https://i.pinimg.com/originals/9e/cd/54/9ecd54dbd9ae2e4d0e497f920c47eb47.jpg");
 }
 .page:nth-child(5) .left {
   background-image: url("https://text2image.com/user_images/202105/text2image_Z1409523_20210503_160204.png");
@@ -86,10 +86,10 @@ html, body {
   background-color: black;
 }
 .page:nth-child(6) .right {
-  background-image: url("https://i.imgur.com/bLvkYTs.jpg");
+  background-image: url("https://scontent-prg1-1.xx.fbcdn.net/v/t1.15752-9/175549259_906488666581793_5941510839736154147_n.jpg?_nc_cat=106&ccb=1-3&_nc_sid=ae9488&_nc_ohc=zAJTNlIST9YAX8aq-zl&_nc_ht=scontent-prg1-1.xx&oh=5df95238b10e7894c2580aec9ec87b90&oe=60B4AF44");
 }
 .page:nth-child(7) .left {
-  background-image: url("https://i.imgur.com/KEnImct.jpg");
+  background-image: url("https://scontent-prg1-1.xx.fbcdn.net/v/t1.15752-9/180065379_1171284249989915_5659716741645008228_n.jpg?_nc_cat=106&ccb=1-3&_nc_sid=ae9488&_nc_ohc=oNUoqI_kaFoAX8-hcHo&_nc_ht=scontent-prg1-1.xx&oh=c7d8e2d29f0caaa68000ef9abf65c067&oe=60B67FC3");
 }
 .page:nth-child(7) .right {
   background-color: black;
@@ -98,10 +98,10 @@ html, body {
   background-color: black;
   }
 .page:nth-child(8) .right {
-  background-image: url("https://i.imgur.com/bLvkYTs.jpg");
+  background-image: url("https://scontent-prg1-1.xx.fbcdn.net/v/t1.15752-9/180344668_957233221761068_5606160568177472213_n.png?_nc_cat=108&ccb=1-3&_nc_sid=ae9488&_nc_ohc=oyHVipH-IOoAX9hIq6J&_nc_ht=scontent-prg1-1.xx&oh=4e44b06656b901bc348d1b3350e084af&oe=60B44BB6");
 }
 .page:nth-child(9) .left {
-  background-image: url("https://i.imgur.com/KEnImct.jpg");
+  background-image: url("https://scontent-prg1-1.xx.fbcdn.net/v/t1.15752-9/180953296_4185484941470684_8572575671705418927_n.png?_nc_cat=109&ccb=1-3&_nc_sid=ae9488&_nc_ohc=gpkcb0dhYxYAX-XD3Cm&_nc_ht=scontent-prg1-1.xx&oh=06cb89feca0355f5b46d2ec8c3c10dfc&oe=60B6C3EA");
 }
 .page:nth-child(9) .right {
   background-color: black;
@@ -110,7 +110,7 @@ html, body {
   background-color: black;
 }
 .page:nth-child(10) .right {
-  background-image: url("https://i.imgur.com/bLvkYTs.jpg");
+  background-image: url("https://scontent-prg1-1.xx.fbcdn.net/v/t1.15752-9/179975605_1445030675866532_407366695386696582_n.png?_nc_cat=106&ccb=1-3&_nc_sid=ae9488&_nc_ohc=8u8UW-ZyA3cAX9Tk440&_nc_ht=scontent-prg1-1.xx&oh=b731d7ad54992c33b67dd966736a68cc&oe=60B6C41D");
 }
 .page.active {
   opacity: 1;
