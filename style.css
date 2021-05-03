@@ -78,10 +78,10 @@ html, body {
   background-image: url("library.jpg");
 }
 .page:nth-child(5) .left {
-  background-image: url("https://text2image.com/user_images/202105/text2image_Z1409523_20210503_160204.png");
+  background-image: url("part.png");
 }
 .page:nth-child(5) .right {
-  background-image: url("https://text2image.com/user_images/202105/text2image_B2508163_20210503_160458.png");
+  background-image: url("part2.png");
 }
 .page:nth-child(6) .left {
   background-color: black;
