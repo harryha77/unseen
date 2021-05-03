@@ -54,7 +54,7 @@ html, body {
   opacity: 0.4;
 }
 .page:nth-child(1) .left {
-  background-image: url("atuin.jpg");
+  background-image: url("atuin.png");
 }
 .page:nth-child(1) .right {
   background-color: black;
